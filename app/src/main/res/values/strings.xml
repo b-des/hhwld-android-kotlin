@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hhwld(Kotlin)</string>
+    <string name="site_domain">https://codepen.io/rcass/pen/MmYwEp</string>
+    <string name="site_domain1">https://2youapp.work/md/testred</string>
+    <string name="appslyer_key">ZfXEobwZCYCNhCrsPYK7HE</string>
+    <string name="text_no_internet">No internet connection</string>
+    <string name="text_no_internet_explain">Please, connect to internet. \nPage will restart automatically</string>
+    <string name="text_image_chooser">Image chooser</string>
+    <string name="permission_granted_dialog_message">Now you can upload files from camera or local storage</string>
+    <string name="permission_denied_dialog_message">If you deny permission you won\'t upload files from device</string>
+    <string name="text_success">Success</string>
+    <string name="text_warning">Warning</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_permission_explanation">Permissions are required for app to work properly</string>
+</resources>
