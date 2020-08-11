@@ -1,1 +1,1 @@
-Android application for hhwld project, written in Java
+Android application for hhwld project, written in Kotlin
